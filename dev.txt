@@ -1,1 +1,3 @@
-hanges applied to branch called devbranch
+changes applied to branch called master - main branch
+
+in july first commit
