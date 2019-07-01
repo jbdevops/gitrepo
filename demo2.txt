@@ -1,3 +1,0 @@
-Trying to use 	reset HEAD command
-
-Looking to go out after pushing into branch and using reset command
