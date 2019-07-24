@@ -1,0 +1,2 @@
+check stash second version
+After stash command applied back to work
